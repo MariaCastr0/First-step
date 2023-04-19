@@ -83,6 +83,14 @@ a:visited {
 /* 3. Header
 /**********************************/
 
+.intro {
+	font-weight: bold;
+	font-size: 3rem;
+	text-align: center;
+	margin: 0 auto;
+	padding: 65px 0;
+}
+
 /**********************************/
 /* 4. Quem somos
 /**********************************/
