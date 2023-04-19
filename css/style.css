@@ -53,6 +53,32 @@ a:visited {
 /* 2. Menu
 /**********************************/
 
+.menu-bg {
+	background-color: #0BF96A;
+}
+
+.menu {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	max-width: 960px;
+	margin: 0 auto;
+	flex-wrap: wrap;
+}
+
+.menu_logo {
+	margin: 10px;
+}
+
+.nav_list {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.nav_link {
+	padding: 20px 10px;
+}
+
 /**********************************/
 /* 3. Header
 /**********************************/
