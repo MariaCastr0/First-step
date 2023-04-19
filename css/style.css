@@ -57,12 +57,28 @@ hr {
 	margin: 20px auto;
 }
 
+p {
+	line-height: 21.82px;
+	padding: 0 10;
+}
+
+.section_titulo {
+	text-align: center;
+	font-size: 3rem;
+	margin-bottom: 10px;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+}
+
 /**********************************/
 /* 2. Menu
 /**********************************/
 
 .menu-bg {
-	background-color: #d2c3fa;
+	background-color: #cdbbfd;
 }
 
 .menu {
@@ -102,6 +118,26 @@ hr {
 /**********************************/
 /* 4. Quem somos
 /**********************************/
+
+.somos {
+	max-width: 960px;
+	margin: auto;
+	padding: 50px 0;
+}
+
+.somos-c {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.somos-c_texto {
+	flex: 6 1 160px;
+}
+
+.somos-c_img {
+	flex: 1 1 350px;
+}
 
 /**********************************/
 /* 5. Nossos cursos
