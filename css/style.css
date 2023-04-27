@@ -254,7 +254,7 @@ img {
 	background-color: #bda1fe;
 }
 
-.plano:last-child, plano:last-child .plano_btn.comprar {
+.plano:last-child, .plano:last-child .plano_btn-comprar {
 	border: 2px solid #9E73EE;
 }
 
